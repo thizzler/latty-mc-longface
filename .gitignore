@@ -1,0 +1,16 @@
+# OS/Editor files
+.idea/
+
+# Python Cache
+**/__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Test cache files
+tests/__pycache__/
+
+# MacOS files
+.DS_Store
+
